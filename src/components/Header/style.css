@@ -1,0 +1,15 @@
+.site-layout .site-layout-background {
+    background: #fff;
+}
+/* Mengatur gaya untuk header */
+.site-layout-header {
+    justify-content: space-between; /* Memastikan elemen di header terdistribusi dengan baik */
+    align-items: center; /* Rata atas-bawah */
+    padding: 0 16px; /* Padding kiri dan kanan */
+}
+.full-screen {
+    margin-right: auto;
+}
+.user-name {
+    color: #888888; /* Warna abu-abu */
+}

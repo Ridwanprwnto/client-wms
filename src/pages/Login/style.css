@@ -1,0 +1,27 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login-form {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
